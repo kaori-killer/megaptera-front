@@ -1,2 +1,2 @@
-# 📘 megatera-front
+# 📘 megaptera-front
 

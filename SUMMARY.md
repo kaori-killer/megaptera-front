@@ -1,4 +1,4 @@
 # Table of contents
 
-* [📘 megatera-front](README.md)
-  * [Page 1](megatera-front/page-1.md)
+* [📘 megaptera-front](README.md)
+  * [Page 1](megaptera-front/page-1.md)
