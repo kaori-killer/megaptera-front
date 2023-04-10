@@ -3,7 +3,7 @@
 * [📘 megaptera-front](README.md)
   * [0주차](megaptera-front/0/README.md)
     * [노아의 GitBook 작성 Tip](megaptera-front/0/1.tip.md)
-    * [GitBook](megaptera-front/0/2.gitbook.md)
+    * [GitBook 참고 자료](megaptera-front/0/2.gitbook.md)
   * [1주차](megaptera-front/1/README.md)
   * [Git](megaptera-front/git/README.md)
   * [모던 자바스크립트 Deep Dive](megaptera-front/js-deep-dive/README.md)

@@ -3,4 +3,4 @@
 ## :whale2: 목차
 
 * 노아의 작성 TIP
-* GitBook
+* GitBook 참고 자료
