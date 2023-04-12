@@ -8,6 +8,7 @@
     * [개발 환경 세팅](megaptera-front/1/1.setting.md)
     * [TypeScript](megaptera-front/1/2.typescript.md)
     * [React](megaptera-front/1/3.React.md)
+  * [계속 써먹는 환경 설정](megaptera-front/keep-setting/1.setting.md)
   * [모던 자바스크립트 Deep Dive](megaptera-front/js-deep-dive/README.md)
     * [새로운 값을 할당하면 기존 메모리 주소를 사용하지 않는 이유](megaptera-front/js-deep-dive/1.memory.md)
     * [메모리에 8진수를 저장하고 참조하는 과정은?](megaptera-front/js-deep-dive/2.number.md)
