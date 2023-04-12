@@ -5,7 +5,7 @@
     * [노아의 GitBook 작성 Tip](megaptera-front/0/1.tip.md)
     * [GitBook 참고 자료](megaptera-front/0/2.gitbook.md)
   * [1주차](megaptera-front/1/README.md)
-    * [개발 환경 세팅](megaptera-front/1/.setting.md)
+    * [개발 환경 세팅](megaptera-front/1/1.setting.md)
     * [TypeScript](megaptera-front/1/2.typescript.md)
     * [React](megaptera-front/1/3.React.md)
   * [모던 자바스크립트 Deep Dive](megaptera-front/js-deep-dive/README.md)
