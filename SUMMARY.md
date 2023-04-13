@@ -8,6 +8,8 @@
     * [개발 환경 세팅](megaptera-front/1/1.setting.md)
     * [TypeScript](megaptera-front/1/2.typescript.md)
     * [React](megaptera-front/1/3.React.md)
+    * [Testing Library](megaptera-front/1/4.testing-library.md)
+    * [Parcel & ESLint](megaptera-front/1/5.parcel-eslint.md)
   * [계속 써먹는 환경 설정 만들기](megaptera-front/keep-setting/README.md)
     * [개발 환경 세팅](megaptera-front/keep-setting/1.setting.md)
   * [모던 자바스크립트 Deep Dive](megaptera-front/js-deep-dive/README.md)
