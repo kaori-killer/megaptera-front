@@ -7,7 +7,7 @@
   * [1주차](megaptera-front/1/README.md)
     * [개발 환경 세팅](megaptera-front/1/1.setting.md)
     * [TypeScript](megaptera-front/1/2.typescript.md)
-    * [React](megaptera-front/1/3.React.md)
+    * [React](megaptera-front/1/3.react.md)
     * [Testing Library](megaptera-front/1/4.testing-library.md)
     * [Parcel & ESLint](megaptera-front/1/5.parcel-eslint.md)
   * [계속 써먹는 환경 설정 만들기](megaptera-front/keep-setting/README.md)
