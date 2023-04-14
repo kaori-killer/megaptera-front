@@ -2,4 +2,4 @@
 
 ## :whale2: 목차
 
-* Pull Request 훈련하기
+* Git Training 가이드
