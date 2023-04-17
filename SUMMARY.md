@@ -10,6 +10,8 @@
     * [React](megaptera-front/1/3.react.md)
     * [Testing Library](megaptera-front/1/4.testing-library.md)
     * [Parcel & ESLint](megaptera-front/1/5.parcel-eslint.md)
+  * [2주차](megaptera-front/2/README.md)
+    * [JSX](megaptera-front/2/1.JSX.md)
   * [계속 써먹는 환경 설정 만들기](megaptera-front/keep-setting/README.md)
     * [개발 환경 세팅](megaptera-front/keep-setting/1.setting.md)
   * [Git](megaptera-front/git/README.md)
