@@ -15,6 +15,8 @@
     * [JSX 없이 React 만들기](megaptera-front/2/2.homework.md)
   * [3주차](megaptera-front/3/README.md)
     * [React Component](megaptera-front/3/1.react-component.md)
+    * [React State](megaptera-front/3/2.react-state.md)
+    * [Thinking In React](megaptera-front/3/3.thinking-in-react.md)
   * [계속 써먹는 환경 설정 만들기](megaptera-front/keep-setting/README.md)
     * [개발 환경 세팅](megaptera-front/keep-setting/1.setting.md)
   * [Git](megaptera-front/git/README.md)
