@@ -20,6 +20,7 @@
     * [오늘의 메뉴 만들기](megaptera-front/3/4.homework.md)
   * [4주차](megaptera-front/4/README.md)
     * [Express](megaptera-front/4/1.express.md)
+    * [Fetch API & CORS](megaptera-front/4/2.fetch-api-cors.md)
   * [계속 써먹는 환경 설정 만들기](megaptera-front/keep-setting/README.md)
     * [개발 환경 세팅](megaptera-front/keep-setting/1.setting.md)
   * [Git](megaptera-front/git/README.md)
