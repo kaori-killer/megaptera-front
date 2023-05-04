@@ -8,3 +8,6 @@
 
 * Express
 * Fetch API & CORS
+* React Hook
+* useRef & Custom Hook
+* usehooks-ts
