@@ -33,3 +33,4 @@
     * [메모리에 8진수를 저장하고 참조하는 과정은?](megaptera-front/js-deep-dive/2.number.md)
   * [TIL](megaptera-front/til/README.md)
     * [23.04](megaptera-front//til/23.04.md)
+    * [23.05](megaptera-front//til/23.05.md)
