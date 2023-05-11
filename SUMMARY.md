@@ -27,7 +27,7 @@
   * [5주차](megaptera-front/5/README.md)
     * [TDD](megaptera-front/5/1.tdd.md)
     * [React Testing Library](megaptera-front/5/2.react-testing-library.md)
-    * [MSW](megaptera-front/5/3.msw.mdd)
+    * [MSW](megaptera-front/5/3.msw.md)
     * [Playwright](megaptera-front/5/4.playwright.md)
   * [계속 써먹는 환경 설정 만들기](megaptera-front/keep-setting/README.md)
     * [개발 환경 세팅](megaptera-front/keep-setting/1.setting.md)
