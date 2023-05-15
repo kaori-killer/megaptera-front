@@ -11,7 +11,7 @@
     * [Testing Library](megaptera-front/1/4.testing-library.md)
     * [Parcel & ESLint](megaptera-front/1/5.parcel-eslint.md)
   * [2주차](megaptera-front/2/README.md)
-    * [JSX!](megaptera-front/2/1.jsx.md)
+    * [JSX](megaptera-front/2/1.jsx.md)
     * [JSX 없이 React 만들기](megaptera-front/2/2.homework.md)
   * [3주차](megaptera-front/3/README.md)
     * [React Component](megaptera-front/3/1.react-component.md)
