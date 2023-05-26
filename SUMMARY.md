@@ -24,6 +24,7 @@
     * [React Hook](megaptera-front/4/3.react-hook.md)
     * [useRef & Custom Hook](megaptera-front/4/4.useRef-custom-hook.md)
     * [usehooks-ts](megaptera-front/4/5.usehooks-ts.md)
+    * [푸드코트 키오스크 만들기](megaptera-front/4/6.homework.md)
   * [5주차](megaptera-front/5/README.md)
     * [TDD](megaptera-front/5/1.tdd.md)
     * [React Testing Library](megaptera-front/5/2.react-testing-library.md)
